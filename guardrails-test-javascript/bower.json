@@ -1,0 +1,20 @@
+{
+  "name": "guardrails-test-javascript",
+  "description": "A repository with the vulnerabilities we should find",
+  "main": "index.js",
+  "authors": [
+    "Andreas Tiefenthaler <@pxlpnk>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/guardrailsio/guardrails-test-javascript",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ember": "1.8.0"
+  }
+}
